@@ -1,0 +1,533 @@
+2015-01-24 21:35:07.631 Homesick[32485:1229827] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Data/Application/321FDF57-D5E7-4381-9FCA-BE131A2227A3/Library/Cookies/Cookies.binarycookies
+2015-01-24 21:35:07.899 Homesick[32485:1229827] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:35:07.899 Homesick[32485:1229827] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:35:07.913 Homesick[32485:1229827] Unlimited access to network resources
+2015-01-24 21:35:07.922 Homesick[32485:1229827] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:35:09.242 Homesick[32485:1229827] Resetting plugins due to page load.
+2015-01-24 21:35:09.782 Homesick[32485:1229827] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/F7953C60-1610-4D9A-A7F8-77300923D926/Homesick.app/www/index.html
+2015-01-24 21:38:48.301 Homesick[32677:1236374] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:38:48.301 Homesick[32677:1236374] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:38:48.302 Homesick[32677:1236374] Unlimited access to network resources
+2015-01-24 21:38:48.304 Homesick[32677:1236374] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:38:48.579 Homesick[32677:1236374] Resetting plugins due to page load.
+2015-01-24 21:38:48.671 Homesick[32677:1236374] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/BBA824E1-598C-4C37-B101-6ACB0F9F0C1B/Homesick.app/www/index.html
+2015-01-24 21:42:04.487 Homesick[33261:1243042] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:42:04.488 Homesick[33261:1243042] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:42:04.489 Homesick[33261:1243042] Unlimited access to network resources
+2015-01-24 21:42:04.490 Homesick[33261:1243042] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:42:04.769 Homesick[33261:1243042] Resetting plugins due to page load.
+2015-01-24 21:42:04.901 Homesick[33261:1243042] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/98E26AB9-EF19-4392-A569-7609F3E20418/Homesick.app/www/index.html
+2015-01-24 21:42:22.797 Homesick[33343:1243766] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:42:22.798 Homesick[33343:1243766] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:42:22.800 Homesick[33343:1243766] Unlimited access to network resources
+2015-01-24 21:42:22.802 Homesick[33343:1243766] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:42:23.343 Homesick[33343:1243766] Resetting plugins due to page load.
+2015-01-24 21:42:23.460 Homesick[33343:1243766] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/467C8191-B535-4875-AC5B-7E17250D589A/Homesick.app/www/index.html
+2015-01-24 21:48:19.139 Homesick[33550:1253859] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:48:19.140 Homesick[33550:1253859] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:48:19.141 Homesick[33550:1253859] Unlimited access to network resources
+2015-01-24 21:48:19.143 Homesick[33550:1253859] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:48:19.505 Homesick[33550:1253859] Resetting plugins due to page load.
+2015-01-24 21:48:19.674 Homesick[33550:1253859] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/2A47A581-D66A-4F86-AE2D-1B0494AE22C3/Homesick.app/www/index.html
+2015-01-24 21:48:51.452 Homesick[33636:1254873] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:48:51.452 Homesick[33636:1254873] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:48:51.453 Homesick[33636:1254873] Unlimited access to network resources
+2015-01-24 21:48:51.455 Homesick[33636:1254873] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:48:51.731 Homesick[33636:1254873] Resetting plugins due to page load.
+2015-01-24 21:48:51.787 Homesick[33636:1254873] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/D5EE6563-FB6C-44C5-A7EA-FDB1A130DC31/Homesick.app/www/index.html
+2015-01-24 21:49:52.054 Homesick[33636:1254873] Failed to load webpage with error: The URL can’t be shown
+2015-01-24 21:50:03.350 Homesick[33636:1254873] Failed to load webpage with error: The URL can’t be shown
+2015-01-24 21:50:12.035 Homesick[33636:1254873] CDVWebViewDelegate: Navigation started when state=1
+2015-01-24 21:50:12.035 Homesick[33636:1254873] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-24 21:50:56.866 Homesick[33785:1258445] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:50:56.867 Homesick[33785:1258445] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:50:56.868 Homesick[33785:1258445] Unlimited access to network resources
+2015-01-24 21:50:56.870 Homesick[33785:1258445] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:50:57.151 Homesick[33785:1258445] Resetting plugins due to page load.
+2015-01-24 21:50:57.197 Homesick[33785:1258445] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/C53E2302-E11F-46F9-BFE9-971D34C70150/Homesick.app/www/index.html
+2015-01-24 21:51:15.706 Homesick[33870:1259355] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:51:15.707 Homesick[33870:1259355] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:51:15.708 Homesick[33870:1259355] Unlimited access to network resources
+2015-01-24 21:51:15.710 Homesick[33870:1259355] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:51:15.987 Homesick[33870:1259355] Resetting plugins due to page load.
+2015-01-24 21:51:16.047 Homesick[33870:1259355] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/35C9FAB8-660B-4E98-BBA9-A44BB21F8475/Homesick.app/www/index.html
+2015-01-24 21:52:32.652 Homesick[34059:1262338] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:52:32.653 Homesick[34059:1262338] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:52:32.654 Homesick[34059:1262338] Unlimited access to network resources
+2015-01-24 21:52:32.656 Homesick[34059:1262338] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:52:32.932 Homesick[34059:1262338] Resetting plugins due to page load.
+2015-01-24 21:52:32.978 Homesick[34059:1262338] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/5B385DFA-1B09-4538-8E26-859A2F82B26F/Homesick.app/www/index.html
+2015-01-24 21:53:16.813 Homesick[34149:1263622] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:53:16.814 Homesick[34149:1263622] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:53:16.815 Homesick[34149:1263622] Unlimited access to network resources
+2015-01-24 21:53:16.817 Homesick[34149:1263622] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:53:17.084 Homesick[34149:1263622] Resetting plugins due to page load.
+2015-01-24 21:53:17.143 Homesick[34149:1263622] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/118597F9-5808-47B9-B6C6-A3431398D090/Homesick.app/www/index.html
+2015-01-24 21:53:31.429 Homesick[34149:1263622] Failed to load webpage with error: The URL can’t be shown
+2015-01-24 21:53:32.970 Homesick[34149:1263622] Failed to load webpage with error: The URL can’t be shown
+2015-01-24 21:53:34.486 Homesick[34149:1263622] Failed to load webpage with error: The URL can’t be shown
+2015-01-24 21:54:46.410 Homesick[34377:1267201] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 21:54:46.411 Homesick[34377:1267201] Multi-tasking -> Device: YES, App: YES
+2015-01-24 21:54:46.413 Homesick[34377:1267201] Unlimited access to network resources
+2015-01-24 21:54:46.414 Homesick[34377:1267201] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 21:54:46.679 Homesick[34377:1267201] Resetting plugins due to page load.
+2015-01-24 21:54:46.726 Homesick[34377:1267201] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/8E598158-31F8-4416-A45D-62088DA30AB7/Homesick.app/www/index.html
+2015-01-24 21:55:25.238 Homesick[34377:1267201] Failed to load webpage with error: The URL can’t be shown
+2015-01-24 22:59:41.126 Homesick[34777:1278903] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 22:59:41.127 Homesick[34777:1278903] Multi-tasking -> Device: YES, App: YES
+2015-01-24 22:59:41.129 Homesick[34777:1278903] Unlimited access to network resources
+2015-01-24 22:59:41.131 Homesick[34777:1278903] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 22:59:41.416 Homesick[34777:1278903] Resetting plugins due to page load.
+2015-01-24 22:59:41.474 Homesick[34777:1278903] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/9B7871BA-9305-4D38-992C-D2A0A7EEEB1F/Homesick.app/www/index.html
+2015-01-24 23:01:18.678 Homesick[34914:1281723] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 23:01:18.679 Homesick[34914:1281723] Multi-tasking -> Device: YES, App: YES
+2015-01-24 23:01:18.681 Homesick[34914:1281723] Unlimited access to network resources
+2015-01-24 23:01:18.682 Homesick[34914:1281723] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 23:01:18.961 Homesick[34914:1281723] Resetting plugins due to page load.
+2015-01-24 23:01:19.019 Homesick[34914:1281723] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/09C3FDDD-CC73-4B41-8F4A-7F5680E4B3D2/Homesick.app/www/index.html
+2015-01-24 23:03:13.083 Homesick[35021:1284732] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 23:03:13.084 Homesick[35021:1284732] Multi-tasking -> Device: YES, App: YES
+2015-01-24 23:03:13.085 Homesick[35021:1284732] Unlimited access to network resources
+2015-01-24 23:03:13.087 Homesick[35021:1284732] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 23:03:13.356 Homesick[35021:1284732] Resetting plugins due to page load.
+2015-01-24 23:03:13.418 Homesick[35021:1284732] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/98D06FD1-F8B3-4CDE-A56A-3C67BA126AC5/Homesick.app/www/index.html
+2015-01-24 23:04:31.340 Homesick[35116:1286733] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 23:04:31.341 Homesick[35116:1286733] Multi-tasking -> Device: YES, App: YES
+2015-01-24 23:04:31.342 Homesick[35116:1286733] Unlimited access to network resources
+2015-01-24 23:04:31.344 Homesick[35116:1286733] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-24 23:04:31.632 Homesick[35116:1286733] Resetting plugins due to page load.
+2015-01-24 23:04:31.690 Homesick[35116:1286733] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/177C938D-782A-4D56-8E1B-892C0AB884CA/Homesick.app/www/index.html
+2015-01-25 14:19:16.650 Homesick[38056:1325505] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:19:16.651 Homesick[38056:1325505] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:19:16.652 Homesick[38056:1325505] Unlimited access to network resources
+2015-01-25 14:19:16.654 Homesick[38056:1325505] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:19:16.933 Homesick[38056:1325505] Resetting plugins due to page load.
+2015-01-25 14:19:16.990 Homesick[38056:1325505] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/55D80803-7405-4FDA-948B-D6018401E178/Homesick.app/www/index.html
+2015-01-25 14:19:25.789 Homesick[38056:1325505] Failed to load webpage with error: The URL can’t be shown
+2015-01-25 14:19:26.635 Homesick[38056:1325505] Failed to load webpage with error: The URL can’t be shown
+2015-01-25 14:19:27.539 Homesick[38056:1325505] Failed to load webpage with error: The URL can’t be shown
+2015-01-25 14:19:28.453 Homesick[38056:1325505] Failed to load webpage with error: The URL can’t be shown
+2015-01-25 14:22:56.292 Homesick[38223:1331385] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:22:56.293 Homesick[38223:1331385] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:22:56.294 Homesick[38223:1331385] Unlimited access to network resources
+2015-01-25 14:22:56.295 Homesick[38223:1331385] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:22:56.560 Homesick[38223:1331385] Resetting plugins due to page load.
+2015-01-25 14:22:56.638 Homesick[38223:1331385] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/C82F2659-3CBC-43BD-8B6A-994943CAA570/Homesick.app/www/index.html
+2015-01-25 14:23:26.753 Homesick[38310:1332467] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:23:26.754 Homesick[38310:1332467] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:23:26.755 Homesick[38310:1332467] Unlimited access to network resources
+2015-01-25 14:23:26.756 Homesick[38310:1332467] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:23:27.028 Homesick[38310:1332467] Resetting plugins due to page load.
+2015-01-25 14:23:27.085 Homesick[38310:1332467] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/CFFAE3C3-855B-4540-ACEC-22DF1016D133/Homesick.app/www/index.html
+2015-01-25 14:26:33.433 Homesick[38467:1337459] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:26:33.434 Homesick[38467:1337459] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:26:33.435 Homesick[38467:1337459] Unlimited access to network resources
+2015-01-25 14:26:33.437 Homesick[38467:1337459] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:26:33.713 Homesick[38467:1337459] Resetting plugins due to page load.
+2015-01-25 14:26:33.768 Homesick[38467:1337459] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/11B4A36C-AAAB-448C-B395-8C6D945EABE5/Homesick.app/www/index.html
+2015-01-25 14:27:34.985 Homesick[38557:1339120] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:27:34.986 Homesick[38557:1339120] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:27:34.987 Homesick[38557:1339120] Unlimited access to network resources
+2015-01-25 14:27:34.988 Homesick[38557:1339120] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:27:35.263 Homesick[38557:1339120] Resetting plugins due to page load.
+2015-01-25 14:27:35.335 Homesick[38557:1339120] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/86148A6C-1150-49F7-9D31-81CBAC806D38/Homesick.app/www/index.html
+2015-01-25 14:27:57.982 Homesick[38644:1340055] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:27:57.983 Homesick[38644:1340055] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:27:57.984 Homesick[38644:1340055] Unlimited access to network resources
+2015-01-25 14:27:57.986 Homesick[38644:1340055] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:27:58.258 Homesick[38644:1340055] Resetting plugins due to page load.
+2015-01-25 14:27:58.308 Homesick[38644:1340055] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/D8BAEA98-10A6-4410-86B0-2ACDD6054CAA/Homesick.app/www/index.html
+2015-01-25 14:29:37.496 Homesick[38742:1342649] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:29:37.497 Homesick[38742:1342649] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:29:37.498 Homesick[38742:1342649] Unlimited access to network resources
+2015-01-25 14:29:37.499 Homesick[38742:1342649] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:29:37.773 Homesick[38742:1342649] Resetting plugins due to page load.
+2015-01-25 14:29:37.844 Homesick[38742:1342649] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/B869CAAE-0515-4FF2-9B5A-78C7A3AD26CF/Homesick.app/www/index.html
+2015-01-25 14:34:39.240 Homesick[38992:1350388] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:34:39.241 Homesick[38992:1350388] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:34:39.242 Homesick[38992:1350388] Unlimited access to network resources
+2015-01-25 14:34:39.244 Homesick[38992:1350388] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:34:39.513 Homesick[38992:1350388] Resetting plugins due to page load.
+2015-01-25 14:34:39.815 Homesick[38992:1350388] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/AF424280-978C-46D4-987B-17441CC59B13/Homesick.app/www/index.html
+2015-01-25 14:35:28.279 Homesick[39082:1351953] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:35:28.279 Homesick[39082:1351953] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:35:28.280 Homesick[39082:1351953] Unlimited access to network resources
+2015-01-25 14:35:28.282 Homesick[39082:1351953] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:35:28.563 Homesick[39082:1351953] Resetting plugins due to page load.
+2015-01-25 14:35:28.832 Homesick[39082:1351953] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/82F56C0A-DB2F-446B-96B2-CB569B494389/Homesick.app/www/index.html
+2015-01-25 14:36:14.663 Homesick[39211:1353254] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:36:14.663 Homesick[39211:1353254] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:36:14.664 Homesick[39211:1353254] Unlimited access to network resources
+2015-01-25 14:36:14.667 Homesick[39211:1353254] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:36:14.944 Homesick[39211:1353254] Resetting plugins due to page load.
+2015-01-25 14:36:15.211 Homesick[39211:1353254] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/8669EC5D-4E0F-4383-A5CC-9C7B0FBE1616/Homesick.app/www/index.html
+2015-01-25 14:36:36.943 Homesick[39293:1354070] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:36:36.944 Homesick[39293:1354070] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:36:36.945 Homesick[39293:1354070] Unlimited access to network resources
+2015-01-25 14:36:36.946 Homesick[39293:1354070] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:36:37.217 Homesick[39293:1354070] Resetting plugins due to page load.
+2015-01-25 14:36:37.478 Homesick[39293:1354070] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/CD63E222-3D0F-428D-AE8C-DBC7CF88CAC3/Homesick.app/www/index.html
+2015-01-25 14:37:02.003 Homesick[39379:1355045] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:37:02.004 Homesick[39379:1355045] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:37:02.005 Homesick[39379:1355045] Unlimited access to network resources
+2015-01-25 14:37:02.007 Homesick[39379:1355045] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:37:02.278 Homesick[39379:1355045] Resetting plugins due to page load.
+2015-01-25 14:37:02.568 Homesick[39379:1355045] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/9EA38DBA-D9CD-422A-9782-FB1DB4FC8324/Homesick.app/www/index.html
+2015-01-25 14:38:16.024 Homesick[39476:1357020] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:38:16.025 Homesick[39476:1357020] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:38:16.026 Homesick[39476:1357020] Unlimited access to network resources
+2015-01-25 14:38:16.027 Homesick[39476:1357020] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:38:16.351 Homesick[39476:1357020] Resetting plugins due to page load.
+2015-01-25 14:38:16.628 Homesick[39476:1357020] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/5087AC60-6B57-4AF0-AB44-FDEDDA7BFE1F/Homesick.app/www/index.html
+2015-01-25 14:38:35.001 Homesick[39559:1357846] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:38:35.002 Homesick[39559:1357846] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:38:35.004 Homesick[39559:1357846] Unlimited access to network resources
+2015-01-25 14:38:35.006 Homesick[39559:1357846] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:38:35.337 Homesick[39559:1357846] Resetting plugins due to page load.
+2015-01-25 14:38:35.675 Homesick[39559:1357846] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/4E703295-EB1D-496F-859E-A147038DAEE3/Homesick.app/www/index.html
+2015-01-25 14:38:55.830 Homesick[39642:1358596] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:38:55.831 Homesick[39642:1358596] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:38:55.832 Homesick[39642:1358596] Unlimited access to network resources
+2015-01-25 14:38:55.834 Homesick[39642:1358596] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:38:56.200 Homesick[39642:1358596] Resetting plugins due to page load.
+2015-01-25 14:38:56.549 Homesick[39642:1358596] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/9434CF85-4DC2-47E4-8334-BFC80B4C6E97/Homesick.app/www/index.html
+2015-01-25 14:39:53.226 Homesick[39730:1360210] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:39:53.227 Homesick[39730:1360210] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:39:53.228 Homesick[39730:1360210] Unlimited access to network resources
+2015-01-25 14:39:53.229 Homesick[39730:1360210] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:39:53.549 Homesick[39730:1360210] Resetting plugins due to page load.
+2015-01-25 14:39:53.974 Homesick[39730:1360210] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/0DB8C7C6-B9C3-4BFA-A318-47697FD43177/Homesick.app/www/index.html
+2015-01-25 14:41:40.288 Homesick[39869:1363032] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:41:40.289 Homesick[39869:1363032] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:41:40.290 Homesick[39869:1363032] Unlimited access to network resources
+2015-01-25 14:41:40.292 Homesick[39869:1363032] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:41:40.567 Homesick[39869:1363032] Resetting plugins due to page load.
+2015-01-25 14:41:40.859 Homesick[39869:1363032] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/3ED364BE-0D39-4A5C-B98F-30916A11BD44/Homesick.app/www/index.html
+2015-01-25 14:44:56.697 Homesick[39989:1367873] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:44:56.698 Homesick[39989:1367873] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:44:56.699 Homesick[39989:1367873] Unlimited access to network resources
+2015-01-25 14:44:56.701 Homesick[39989:1367873] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:44:56.978 Homesick[39989:1367873] Resetting plugins due to page load.
+2015-01-25 14:44:57.268 Homesick[39989:1367873] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/122277F0-F833-4488-B476-01DD2974F0AB/Homesick.app/www/index.html
+2015-01-25 14:53:12.655 Homesick[40241:1380050] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:53:12.656 Homesick[40241:1380050] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:53:12.657 Homesick[40241:1380050] Unlimited access to network resources
+2015-01-25 14:53:12.659 Homesick[40241:1380050] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:53:12.925 Homesick[40241:1380050] Resetting plugins due to page load.
+2015-01-25 14:53:13.174 Homesick[40241:1380050] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/7328314D-DEA8-4612-8BEB-49ACDFDD24AF/Homesick.app/www/index.html
+2015-01-25 14:53:40.118 Homesick[40327:1381082] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:53:40.119 Homesick[40327:1381082] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:53:40.120 Homesick[40327:1381082] Unlimited access to network resources
+2015-01-25 14:53:40.121 Homesick[40327:1381082] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:53:40.398 Homesick[40327:1381082] Resetting plugins due to page load.
+2015-01-25 14:53:40.671 Homesick[40327:1381082] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/C442EAAD-ABE3-4C0B-872A-EF721861AB21/Homesick.app/www/index.html
+2015-01-25 14:55:00.994 Homesick[40424:1383272] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:55:00.995 Homesick[40424:1383272] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:55:00.996 Homesick[40424:1383272] Unlimited access to network resources
+2015-01-25 14:55:00.998 Homesick[40424:1383272] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:55:01.278 Homesick[40424:1383272] Resetting plugins due to page load.
+2015-01-25 14:55:01.554 Homesick[40424:1383272] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/6C2618FA-0FD5-4341-8E80-AE3A1DCEB77B/Homesick.app/www/index.html
+2015-01-25 14:55:19.654 Homesick[40507:1383799] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:55:19.655 Homesick[40507:1383799] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:55:19.656 Homesick[40507:1383799] Unlimited access to network resources
+2015-01-25 14:55:19.658 Homesick[40507:1383799] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:55:19.932 Homesick[40507:1383799] Resetting plugins due to page load.
+2015-01-25 14:55:20.205 Homesick[40507:1383799] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/BFC5E8A3-E87C-419B-87A0-04303E90E699/Homesick.app/www/index.html
+2015-01-25 14:56:02.233 Homesick[40724:1386186] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 14:56:02.233 Homesick[40724:1386186] Multi-tasking -> Device: YES, App: YES
+2015-01-25 14:56:02.235 Homesick[40724:1386186] Unlimited access to network resources
+2015-01-25 14:56:02.237 Homesick[40724:1386186] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 14:56:02.512 Homesick[40724:1386186] Resetting plugins due to page load.
+2015-01-25 14:56:02.758 Homesick[40724:1386186] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/7851AF3E-02EE-4F70-9270-BDD99AB5E2D5/Homesick.app/www/index.html
+2015-01-25 15:27:27.063 Homesick[41398:1432115] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 15:27:27.064 Homesick[41398:1432115] Multi-tasking -> Device: YES, App: YES
+2015-01-25 15:27:27.065 Homesick[41398:1432115] Unlimited access to network resources
+2015-01-25 15:27:27.067 Homesick[41398:1432115] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 15:27:27.354 Homesick[41398:1432115] Resetting plugins due to page load.
+2015-01-25 15:27:27.768 Homesick[41398:1432115] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/A2BBC949-E0C0-42C0-B172-0FF762C2EEAF/Homesick.app/www/index.html
+2015-01-25 19:15:33.912 Homesick[42510:1480165] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-25 19:15:33.913 Homesick[42510:1480165] Multi-tasking -> Device: YES, App: YES
+2015-01-25 19:15:33.924 Homesick[42510:1480165] Unlimited access to network resources
+2015-01-25 19:15:33.929 Homesick[42510:1480165] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-25 19:15:34.399 Homesick[42510:1480165] Resetting plugins due to page load.
+2015-01-25 19:15:34.874 Homesick[42510:1480165] Finished load of: file:///Users/gpfaff/Library/Developer/CoreSimulator/Devices/05D84799-4674-4683-AEA0-6CCAEFDFA9C8/data/Containers/Bundle/Application/C6E2097E-BCC9-47DD-BC2C-A38A047A5332/Homesick.app/www/index.html

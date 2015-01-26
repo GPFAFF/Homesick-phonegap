@@ -1,0 +1,339 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-color:#E4E4E4;
+    background-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    background-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    background-image:-webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        color-stop(0, #A7A7A7),
+        color-stop(0.51, #E4E4E4)
+    );
+    background-attachment:fixed;
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    text-transform:uppercase;
+    width:100%;
+}
+input {
+    font-size: 14px;
+    margin: 30px auto;
+    padding: 10px 30px;
+    cursor: pointer;
+    border-radius: 3px;
+    width: 54%;
+    border: 2px solid black;
+    text-align: center;
+    height: 20px;
+}
+
+#search{   
+    font-size: 17px;
+
+    position: relative;
+   
+
+    display: block;
+
+    margin: auto;
+    padding: 10px 30px;
+
+    cursor: pointer;
+
+    color: #605E5E;
+    border: 0;
+    border-radius: 3px;
+    outline: none;
+    background: #fff;
+    border: 2px solid black;
+    
+}
+
+#search:hover{
+    background: #34495e;;
+    transition: 0.3s ease;
+    color: white;
+    box-shadow: 0px -4px 24px #FFF; 
+}
+
+#search:active{
+   background: #34495e;;
+    transition: 0.3s ease;
+    color: white;
+    box-shadow: none;
+   
+}
+h3{
+    color: white;
+}
+
+i{
+ display: inline-block;
+vertical-align: middle;
+position: relative;
+margin: 0;
+padding: 0;
+width: 30px;
+height: 30px;
+}
+.share {
+  left: 0;
+  top: 60%;
+  list-style-type: none;
+  margin: 0;
+  z-index: 10;
+  max-width: 100%;
+  text-align: center;
+  padding: 0;
+}
+
+.share li {
+  position: relative;
+  display: inline-block;
+}
+
+.share li #social-link {
+  padding: 0;
+  display: block;
+  cursor: pointer;
+  font-size: 25px;
+  width: 50px;
+  height: 60px;
+  padding: 15px 20px;
+  color: #605e5e;
+  border: 1px black;
+}
+
+.share li #social-link .nav-label {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: white;
+  display: block;
+  height: 60px;
+  position: absolute;
+  top: 0px;
+  top: 0rem;
+  margin-left: 40px;
+  line-height: 64px;
+  padding: 0 20px;
+  white-space: nowrap;
+  z-index: 4;
+  border-style: 2px solid black;
+}
+.share li #social-link:hover{
+    color: #Fff;
+    transition: 0.4s ease;
+}
+.share li #social-link .nav-label span {
+  -moz-transform-origin: left 50%;
+  -ms-transform-origin: left 50%;
+  -webkit-transform-origin: left 50%;
+  transform-origin: left 50%;
+  -moz-transform: rotateY(-90deg);
+  -webkit-transform: rotateY(-90deg);
+  transform: rotateY(-90deg);
+}
+html, body { 
+    height: 100%; 
+    margin: 0; 
+    padding: 0;
+    background: #e74c3c;
+}
+
+.main{
+    background: #e74c3c;
+    height: auto;
+    width: 100%;
+    font-family: 'Pathway Gothic One', sans-serif;
+    padding-bottom: 200px;
+}
+
+/*#search{
+    margin: 20px auto;
+    height: 45%;
+    width: 31.9%;
+    z-index: 1;
+    padding: 20px;
+    border: 2px solid #000;
+    text-align: center;
+    display: block;
+}
+*/
+#clearInput{
+    margin: 20px auto;
+    height: 45%;
+    width: 32%;
+    z-index: 1;
+    padding: 20px;
+    border: 2px solid #000;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+}
+#selector{
+    margin: 20px auto;
+    height: 55px;
+    width: 31.9%;
+    z-index: 1;
+    padding: 20px;
+    border: 1.5px solid #000;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+}
+span{
+    margin-left: 34%;
+    display: inline-block;
+}
+.title{
+    width: 100%;
+    background-color: #34495e;
+    height: 120px;
+    text-align: center;
+    line-height: 70px;
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+    padding-top: 25px;
+}
+.about h3{
+    text-align: center;
+    font-size: 36px;
+    padding-top: 40px;
+    color: white;
+}
+.fa-globe {
+    font-size: 64px;
+    padding-top: 10px;
+}
+.icons{
+    width: 100%;
+    text-align: center;
+    font-size: 60px;
+
+}
+.love, .family, .help{
+    display:inline-block;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 60px;
+    margin-top: 70px;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    -moz-text-stroke: 1px black;
+}
+.love:hover, .family:hover, .help:hover{
+    color: #34495e;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+a{
+    text-decoration: none;
+}
+.middle-nav{
+    text-align: center;
+    display: block;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    text-align: center;
+}
+button{
+    background-color: white;
+}
+img{
+    border: solid 4px black;
+    max-width: 100%;
+    text-align: center;
+}
+
+
+
+/* Portrait layout (default) */
+.app {
+    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
+    position:absolute;             /* position in the center of the screen */
+    left:50%;
+    top:50%;
+    height:50px;                   /* text area height */
+    width:225px;                   /* text area width */
+    text-align:center;
+    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
+    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
+                                   /* offset horizontal: half of text area width */
+}
+.i{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+
+}
+.about h3{
+    font-size: 30px;
+    padding: 20px;
+}
+.icons{
+    font-size: 30px;
+}
+.fa-globe{
+    font-size: 30px;
+    margin-top: -25px;
+}
+.title{
+    font-size: 50px;
+}
+
+#search{
+    margin: 0px auto;
+    width: 60%;
+}
+#masterInput{
+  width: 60%;
+}
+#clearInput{
+    width: 60%;
+}
+input{
+  font-size: 10px;
+}
+/* Landscape layout (with min-width) */
+@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
+    .app {
+        background-position:left center;
+        padding:75px 0px 75px 170px;  /* padding-top + padding-bottom + text area = image height */
+        margin:-90px 0px 0px -198px;  /* offset vertical: half of image height */
+                                      /* offset horizontal: half of image width and text area width */
+    }
+}

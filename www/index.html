@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=yes, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+                <title>HomeSick</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">  
+        <link rel="stylesheet" href="css/index.css"/>  
+
+        
+         <script type="text/javascript" src="js/jquery.min.js"></script>
+
+         <script type="text/javascript" src="js/app.js"></script>
+         <!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuANer05eeyLW4Gew5Pj21z9JVW3Kgad4"></script> -->
+         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDDLraFA3DMLOeFdk77C9520m5YbuXJz3o&v=3.18"></script>
+     
+        <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAb5rWAABNuAAGegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzMzMzMzMwIiIiESIiEQAiIiIRIiIRACIREhEiIhEAIhESESIiEQAiERIRIiIRACIREhEiIhEAIiIiESIiEQEREREREREREiIiIhEiIhEgIiIiIRIhEgACIiIiEiEgAAAiIiIhEgAAAAIiIiIgAAAAACIiIgAAAAAAAAAAAAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABAAAAAAAAAAAAAIABAADAAwAA4AcAAPAPAAD4HwAA" rel="icon" type="image/x-icon" />
+
+        <link href='http://fonts.googleapis.com/css?family=Pathway+Gothic+One' rel='stylesheet' type='text/css'>
+</body>
+
+<div class="wrapper">
+            <div class="main">
+                <!-- Header for Page -->
+                <header class="title"><i class="fa fa-globe"></i> HomeSick <i class="fa fa-globe"></i>
+                </header>
+                <!-- Main Message -->
+            <div class="about">
+                <h3> Enter your favorite location. Search a HashTag. See popular photos </h3>
+
+<!-- Font Awesome Icons -->
+            <div class="icons">
+                    <section class="love"><i class="fa fa-binoculars"></i></section>
+                    <section class="family"><i class="fa fa-camera-retro"></i></section>
+                    <section class="help"><i class="fa fa-cloud"></i></section>
+            </div>
+
+            <div class="middle-nav">
+                <select type="text" placeholder="Pick your target" id="selector">
+                <option value="location">Location</option>
+                <option value="hashtag">Hashtag</option>
+                </select>
+            <input type="text" placeholder="ENTER YOUR FAVORITE CITY OR #" id="masterInput" />
+                <!-- Empty Container for Images -->
+                <ul></ul>
+                <div id="map-canvas"></div>
+                <button id="search">Search</button>
+</div>
+
+                <!-- Clear Script to reset DOM -->
+                <script>$("#clearInput").click(function() {$("li").remove();});</script>
+
+
+            </div>
+        </div>
+
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>
